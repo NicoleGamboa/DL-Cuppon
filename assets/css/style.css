@@ -1,0 +1,29 @@
+body {
+font-family: 'Roboto', sans-serif;
+}
+
+.fondo-verde {
+    background-color: #28A745;
+}
+
+.logo {
+    width: 100px;
+}
+
+.card-title {
+    color: #212529;
+}
+
+.card-text {
+    color:#707070;
+    font-size: 16px;
+}
+
+.card-text-dos {
+    color:#707070;
+    font-size: 13px;
+}
+
+.cupones {
+    font-size: 21px;;
+}
